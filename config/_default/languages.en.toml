@@ -5,18 +5,18 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Congo"
-logo = "img/logo.jpg"
+title = "Ivan Hilmi Derian"
+# logo = "img/logo.jpg"
 description = "My awesome website"
-copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2022 Ivan HD"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Ivan Hilmi Derian"
   image = "img/profilivan.jpg"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "Your average coder weeb"
+  # bio = "A little bit about you"
   links = [
     { github = "https://github.com/ThiccPan" },
     { linkedin = "https://linkedin.com/in/ivan-hilmi-derian-6a6839215" },
@@ -27,7 +27,7 @@ dateFormat = "2 January 2006"
   #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
-    { discord = "https://discord.gg/invitecode" },
+    # { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
@@ -35,7 +35,7 @@ dateFormat = "2 January 2006"
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/thiccpan" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
