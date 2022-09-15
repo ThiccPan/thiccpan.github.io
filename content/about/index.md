@@ -30,6 +30,3 @@ MySQL, DB2
 
 #### UI Kit
 Bootsrap
-
-  - Avid cook from time to time. :shallow_pan_of_food:
-  - Animal videos all day! :cat:
